@@ -6,7 +6,7 @@ Ingeniero mecánico y desarrollador, construyendo soluciones prácticas con Pyth
 - 🌱 Aprendiendo: métodos numéricos, optimización, visualización avanzada
 - 🧰 Stack favorito: Python (NumPy, SciPy, SymPy, Matplotlib), Jupyter, Docker
 - 💬 Pregúntame sobre: modelado mecánico básico, scripts de cálculo, automatización
-- 📫 Contacto: [LinkedIn](https://www.linkedin.com/) · email: tu_email@ejemplo.com
+- 📫 Contacto: [LinkedIn](https://www.linkedin.com/in/jhonalexanderv/) · email: jhonalexanderv@gmail.com.com
 
 ## Proyectos destacados
 
