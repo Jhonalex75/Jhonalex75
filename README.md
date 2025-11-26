@@ -73,18 +73,22 @@ Aplico estándares de gestión de proyectos para asegurar resultados predecibles
 ### 📊 Impacto en Código
 
 <div align="center">
+  <!-- Activity Graph: Shows commits over time -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jhonalex75&theme=react-dark&bg_color=0D1117&hide_border=true" alt="Jhon's Activity Graph" width="100%" />
+  
+  <br><br>
+
+  <!-- Top Languages & Stats -->
   <table style="border: none; border-collapse: collapse;">
     <tr>
-      <td style="border: none; padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Jhonalex75&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Jhon's GitHub Stats" />
+      <td style="border: none; padding: 10px; vertical-align: top;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonalex75&layout=compact&theme=react-dark&hide_border=true&langs_count=6" alt="Top Languages" />
       </td>
-      <td style="border: none; padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonalex75&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+      <td style="border: none; padding: 10px; vertical-align: top;">
+         <img src="https://github-readme-stats.vercel.app/api?username=Jhonalex75&show_icons=true&theme=react-dark&hide_border=true" alt="GitHub Stats" />
       </td>
     </tr>
   </table>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhonalex75&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ---
