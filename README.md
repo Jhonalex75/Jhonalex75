@@ -1,36 +1,73 @@
-# ¡Hola! Soy Jhon Alexander 👋
+<div align="center">
+  <!-- BANNER: Upload the generated image and replace the src below if needed, or name it banner.png in your repo -->
+  <img src="./banner.png" width="100%" alt="Banner" />
 
-Ingeniero mecánico y desarrollador, construyendo soluciones prácticas con Python y herramientas de ingeniería. Me interesan el análisis mecánico, simulación, automatización y visualización para proyectos de aprendizaje y aplicaciones reales.
+  <br />
+  
+  <!-- TYPING ANIMATION -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDAE&width=435&lines=Mechanical+Engineer+%E2%9A%99%EF%B8%8F;Python+Developer+%F0%9F%90%8D;React+Enthusiast+%E2%9A%9B%EF%B8%8F;Data+Science+Practitioner+%F0%9F%93%8A&center=true&vCenter=true&random=false&width=600&height=50" alt="Typing SVG" />
+  </a>
+</div>
 
-- 🔭 Actualmente trabajando en: POLEAS, Grúa, Mantenimiento
-- 🌱 Aprendiendo: métodos numéricos, optimización, visualización avanzada
-- 🧰 Stack favorito: Python (NumPy, SciPy, SymPy, Matplotlib), Jupyter, Docker
-- 💬 Pregúntame sobre: modelado mecánico básico, scripts de cálculo, automatización
-- 📫 Contacto: [LinkedIn](https://www.linkedin.com/in/jhonalexanderv/) · email: jhonalexanderv@gmail.com.com
+<hr />
 
-## Proyectos destacados
+### 👨‍💻 Tech Stack
 
-Revisa los repositorios fijados (Pinned). Sugerencias para fijar:
+<div align="center">
 
-- `POLEAS` — diseño y cálculo de sistemas de poleas
-- `Grua` — análisis simplificado de cargas y estabilidad
-- `Mantenimiento` — registro/planificación de mantenimiento básico
+  <!-- LANGUAGES -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  
+  <br />
 
-## Tecnologías y herramientas
+  <!-- FRAMEWORKS & TOOLS -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  
+  <br />
 
-- Lenguajes: Python
-- Científico: NumPy, SciPy, SymPy, Pandas
-- Visualización: Matplotlib, Plotly
-- Dev: GitHub Actions, Docker, Git
+  <!-- DATA SCIENCE -->
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
 
-## Cómo colaboro
+</div>
 
-- Issues y PRs bienvenidos. Revisa `CONTRIBUTING.md` en cada proyecto.
-- Uso CI para validar estilo (Black/Flake8) y pruebas (PyTest) donde aplique.
+<hr />
 
-## Métricas rápidas
+### 📊 GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Jhonalex75&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonalex75&layout=compact)
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhonalex75&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonalex75&layout=compact&theme=tokyonight&langs_count=8&hide_border=true"/>
+      </td>
+    </tr>
+  </table>
+  
+  <br />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhonalex75&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</div>
 
-> Tip: mantengo consistencia entre README y el stack real del código para evitar confusiones.
+<hr />
+
+<div align="center">
+  <!-- SOCIAL LINKS -->
+  <a href="https://linkedin.com/in/jhonalexanderv">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jhonalexanderv@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
