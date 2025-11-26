@@ -73,7 +73,16 @@ Aplico estándares de gestión de proyectos para asegurar resultados predecibles
 ### 📊 Impacto en Código
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jhonalex75&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Jhon's GitHub Stats" />
+  <table style="border: none; border-collapse: collapse;">
+    <tr>
+      <td style="border: none; padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Jhonalex75&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Jhon's GitHub Stats" />
+      </td>
+      <td style="border: none; padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonalex75&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhonalex75&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
