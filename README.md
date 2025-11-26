@@ -70,22 +70,23 @@ Aplico estándares de gestión de proyectos para asegurar resultados predecibles
 
 ---
 
-### 📊 Impacto en Código
+### 📊 Impacto en Código & Comunidad
 
 <div align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jhonalex75&theme=react-dark&bg_color=0D1117&hide_border=true" alt="Jhon's Activity Graph" width="100%" />
+  <!-- Snake Animation -->
+  <img src="https://github.com/Jhonalex75/Jhonalex75/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
   
   <br><br>
 
-  <!-- Top Languages & Stats -->
+  <!-- Community Stats (Issues, PRs, Stars) -->
   <table style="border: none; border-collapse: collapse;">
     <tr>
       <td style="border: none; padding: 10px; vertical-align: top;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonalex75&layout=compact&theme=react-dark&hide_border=true&langs_count=6" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Jhonalex75&show_icons=true&theme=react-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td style="border: none; padding: 10px; vertical-align: top;">
-         <img src="https://github-readme-stats.vercel.app/api?username=Jhonalex75&show_icons=true&theme=react-dark&hide_border=true" alt="GitHub Stats" />
+         <!-- Top Languages -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonalex75&layout=compact&theme=react-dark&hide_border=true&langs_count=6" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -93,7 +94,7 @@ Aplico estándares de gestión de proyectos para asegurar resultados predecibles
 
 ---
 
-### 🌟 Comunidad & Productividad
+### 🌟 Feedback de Visitantes
 
 <div align="center">
   <p>¿Te gusta mi trabajo? ¡Deja tu comentario en el libro de visitas!</p>
@@ -105,9 +106,7 @@ Aplico estándares de gestión de proyectos para asegurar resultados predecibles
   <br><br>
   
   <!-- Productivity Cards -->
-  <p><strong>Análisis de Productividad y Hábitos de Código</strong></p>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jhonalex75&theme=react_dark&utcOffset=-5" alt="Productive Time" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jhonalex75&theme=react_dark" alt="Profile Details" />
 </div>
 
 ---
