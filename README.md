@@ -73,7 +73,7 @@ Aplico estándares de gestión de proyectos para asegurar resultados predecibles
 ### 📊 Impacto en Código
 
 <div align="center">
-  <!-- Activity Graph: Shows commits over time -->
+  <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jhonalex75&theme=react-dark&bg_color=0D1117&hide_border=true" alt="Jhon's Activity Graph" width="100%" />
   
   <br><br>
@@ -89,6 +89,23 @@ Aplico estándares de gestión de proyectos para asegurar resultados predecibles
       </td>
     </tr>
   </table>
+</div>
+
+---
+
+### 🌟 Comunidad & Feedback
+
+<div align="center">
+  <p>¿Te gusta mi trabajo? ¡Dale una estrella al repositorio y deja tu comentario!</p>
+  
+  <a href="https://github.com/Jhonalex75/Jhonalex75/issues/new?title=Feedback%20del%20Perfil&body=Hola%20Jhon,%20me%20parece%20que%20tu%20perfil...">
+    <img src="https://img.shields.io/badge/Dejar_un_Comentario-Libro_de_Visitas-2ea44f?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Guestbook" />
+  </a>
+
+  <br><br>
+  
+  <!-- Star History Graph -->
+  <img src="https://api.star-history.com/svg?repos=Jhonalex75/Jhonalex75&type=Date&theme=dark" alt="Star History Chart" width="100%" />
 </div>
 
 ---
