@@ -1,14 +1,9 @@
 name: Generate Snake
 
 on:
-  # run automatically every 6 hours
   schedule:
-    - cron: "0 */6 * * *" 
-  
-  # allows to manually run the job at any time
+    - cron: "0 */6 * * *"
   workflow_dispatch:
-  
-  # run on every push on the master branch
   push:
     branches:
     - main
@@ -16,6 +11,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v2
 
