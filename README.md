@@ -93,10 +93,10 @@ Aplico estándares de gestión de proyectos para asegurar resultados predecibles
 
 ---
 
-### 🌟 Comunidad & Feedback
+### 🌟 Comunidad & Productividad
 
 <div align="center">
-  <p>¿Te gusta mi trabajo? ¡Dale una estrella al repositorio y deja tu comentario!</p>
+  <p>¿Te gusta mi trabajo? ¡Deja tu comentario en el libro de visitas!</p>
   
   <a href="https://github.com/Jhonalex75/Jhonalex75/issues/new?title=Feedback%20del%20Perfil&body=Hola%20Jhon,%20me%20parece%20que%20tu%20perfil...">
     <img src="https://img.shields.io/badge/Dejar_un_Comentario-Libro_de_Visitas-2ea44f?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Guestbook" />
@@ -104,8 +104,10 @@ Aplico estándares de gestión de proyectos para asegurar resultados predecibles
 
   <br><br>
   
-  <!-- Star History Graph -->
-  <img src="https://api.star-history.com/svg?repos=Jhonalex75/Jhonalex75&type=Date&theme=dark" alt="Star History Chart" width="100%" />
+  <!-- Productivity Cards -->
+  <p><strong>Análisis de Productividad y Hábitos de Código</strong></p>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jhonalex75&theme=react_dark&utcOffset=-5" alt="Productive Time" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jhonalex75&theme=react_dark" alt="Profile Details" />
 </div>
 
 ---
